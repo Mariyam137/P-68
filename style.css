@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
